@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Vaya API",
+    "url": "https://api.vaya-luyten.com/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.vaya-luyten.com.ico",
+    "slug": "vaya-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 347,
+    "timeDay": 347,
+    "timeWeek": 347,
+    "timeMonth": 347,
+    "timeYear": 347,
+    "dailyMinutesDown": {}
+  }
+]
