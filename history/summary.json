@@ -4,17 +4,17 @@
     "url": "https://api.vaya-luyten.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.vaya-luyten.com.ico",
     "slug": "vaya-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 258,
-    "timeWeek": 412,
-    "timeMonth": 418,
-    "timeYear": 408,
+    "time": 737,
+    "timeDay": 7743,
+    "timeWeek": 2264,
+    "timeMonth": 881,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   }
 ]
