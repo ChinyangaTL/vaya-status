@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.vaya-luyten.com.ico",
     "slug": "vaya-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 7743,
-    "timeWeek": 2264,
-    "timeMonth": 881,
-    "timeYear": 737,
-    "dailyMinutesDown": {}
+    "uptime": "97.92%",
+    "uptimeDay": "9.23%",
+    "uptimeWeek": "87.03%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "97.92%",
+    "time": 1054,
+    "timeDay": 15271,
+    "timeWeek": 4143,
+    "timeMonth": 1348,
+    "timeYear": 1054,
+    "dailyMinutesDown": {
+      "2026-08-27": 470,
+      "2026-08-26": 837
+    }
   }
 ]
