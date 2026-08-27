@@ -1,7 +1,7 @@
 url: https://api.vaya-luyten.com/health
-status: down
-code: 502
-responseTime: 15313
-lastUpdated: 2026-08-27T04:12:31.779Z
+status: up
+code: 200
+responseTime: 464
+lastUpdated: 2026-08-27T16:16:35.107Z
 startTime: 2026-07-14T15:00:14.742Z
 generator: Upptime <https://github.com/upptime/upptime>
